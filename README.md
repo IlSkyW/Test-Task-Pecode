@@ -12,3 +12,6 @@
 
 📁 Selectors (CSS selectors) are located in cypress/selectors folder
 
+📁 Screenshots are located in cypress/screenshots folder
+
+📁 Video are located in cypress/videos folder
